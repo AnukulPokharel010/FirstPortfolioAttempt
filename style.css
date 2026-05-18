@@ -1,0 +1,40 @@
+header{
+    text-align:center;
+    color: red;
+    background-color: white;
+ }
+ nav{
+    color: green;
+    text-align: center;
+    background-color:lightblue ;
+    font-size: 20px;
+ }
+ .content{
+float:left;
+border: 5px solid;
+box-sizing: border-box;
+font-size: 15px;
+width: 23%;
+ }
+ .content h1{
+    color:red;
+    background-color: aqua;
+ }
+.footer{
+    margin-top: 210px;
+    color: red;
+    background-color: aqua;
+    padding: 10px;
+    height: 300px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.footer-content{
+    float:left;
+    color: red;
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    width: 22%;
+}
